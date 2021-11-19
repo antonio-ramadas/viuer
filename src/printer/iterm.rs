@@ -73,7 +73,7 @@ fn print_buffer(
 
     writeln!(
         stdout,
-        "\x1b]1337;File=inline=1;preserveAspectRatio=1;size={};width={};height={}:{}\x07",
+        "\x1b]1337;File=inline=1;preserveAspectRatio=0;size={};width={}px;height={}px:{}\x07",
         img_content.len(),
         w,
         h,
