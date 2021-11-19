@@ -1,4 +1,7 @@
 # viuer
+
+> :warning: This is a custom specific change. Please check the message from commit: 6270192bdce8e02f08a3d56f666e3da06b3435c9
+
 Display images in the terminal with ease.
 
 ![ci](https://github.com/atanunq/viuer/workflows/ci/badge.svg)
